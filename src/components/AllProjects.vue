@@ -35,7 +35,7 @@
    { id: 2, 
      name: 'Projet 2', 
      description: `Réalisation d'un cahier des charges`, 
-     technologies:`Technologies utilisées : WORD et SIGMA`,
+     technologies:`Technologies utilisées : WORD et FIGMA`,
      picture:"/src/assets/pictures/image_CahierDesCharges.png",
      documentLink: "/src/assets/documents/Cahier_des_charges_la_socketterie.pdf",
      
