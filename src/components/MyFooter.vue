@@ -1,9 +1,9 @@
 <template>
     <footer>
     <div class="social-links">
-      <a href="https://github.com/votreprofil"><img src ="/src/assets/pictures/github.png" target="_blank"></a>
-      <a href="https://github.com/votreprofil"><img src ="/src/assets/pictures/linkedin.png" target="_blank"></a>
-      <a href="https://github.com/votreprofil"><img src ="/src/assets/pictures/X.jpg" target="_blank"></a>
+        <a href="https://github.com/votreprofil" target="_blank" ><img src ="/src/assets/pictures/github.png" alt="github"></a>
+        <a href="https://github.com/votreprofil" target="_blank"><img src ="/src/assets/pictures/linkedin.png" alt="linkedin"></a>
+        <a href="https://github.com/votreprofil" target="_blank"><img src ="/src/assets/pictures/X.jpg" alt="X"></a>
     </div>
     <p>Dernière mise à jour : {{ lastUpdated }}</p>
   </footer>
