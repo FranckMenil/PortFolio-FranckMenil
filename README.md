@@ -27,4 +27,5 @@ npm run dev
 ```sh
 npm run build
 
+### Validator W3c
 ![alt text](/src/assets/pictures/impecran_validator_w3c.png)
