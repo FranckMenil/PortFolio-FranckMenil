@@ -26,6 +26,6 @@ npm run dev
 
 ```sh
 npm run build
-
 ```
 ![alt text](/src/assets/pictures/impecran_validator_w3c.png)
+
