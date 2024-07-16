@@ -1,5 +1,6 @@
 <template>
     <div>
+         <h2>Mes Projets</h2>
          <div class="projet1" @click="handleClick(projects[0])">
              <img src="/src/assets/pictures/image CV_Franck_Menil.png" alt="CV">
              <P>Création d'un CV en ligne </P>
@@ -61,23 +62,29 @@
  </script>
  
  <style scoped>
+ div {
+    margin-top: 20em;
+}
+h2 {
+  font-size: 40px;
+}
  .projet1 {
      display: flex;
      justify-content:center;
-     padding-top: 10px;
      padding-right: 5em;
+     margin: auto;
  }
  
  .projet2 {
      display: flex;
      justify-content:center;
-     padding-top: 20px;
-     }
+     padding-top: 5em;
+}
  
  .projet3 {
      display: flex;
      justify-content:center;
-     padding-top: 20px;
+     margin-top: 5em;
      padding-left:2em;
  }
  

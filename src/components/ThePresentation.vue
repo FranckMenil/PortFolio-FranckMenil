@@ -21,6 +21,9 @@ export default {
 </script>
 
 <style scoped>
+div {
+    margin-top:20em;
+}
 h1 {
     font-size: 60px;
 }

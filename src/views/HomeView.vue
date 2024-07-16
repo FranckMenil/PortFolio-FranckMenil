@@ -4,13 +4,11 @@
       <ThePresentation />
     </section>
     <section id="creations">
-      <h2>Mes Projets</h2>
       <AllProjects/>
       <div>
       </div>
     </section>
     <section id="contact">
-      <h2>Mon Contact</h2>
       <ContactForm />
     </section>
   </main>
@@ -33,12 +31,6 @@ main{
   padding: 1rem;
   text-align: center;
 }
-h1 {
-  font-size:50px;
-}
-h2 {
-  font-size:40px;
-}
 #creations {
   padding: 1rem;
   text-align: center;
@@ -47,5 +39,4 @@ h2 {
   padding: 1rem;
   text-align: center;
 }
-
 </style>
