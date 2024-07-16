@@ -78,7 +78,7 @@ h2 {
  .projet2 {
      display: flex;
      justify-content:center;
-     padding-top: 5em;
+     margin-top: 5em;
 }
  
  .projet3 {
