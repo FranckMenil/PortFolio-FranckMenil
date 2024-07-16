@@ -1,4 +1,5 @@
 <template>
+    <h2>Mon Contact</h2>
     <form @submit.prevent="sendEmail">
         <div>
             <label for="name">Nom/Prénom</label>
@@ -56,6 +57,9 @@ div {
 label {
   margin-bottom: 0.5rem;
   font-weight: bold;
+}
+h2 {
+  font-size:40px;
 }
 
 input,

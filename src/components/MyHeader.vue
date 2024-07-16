@@ -22,14 +22,15 @@
 
 <style scoped>
 header {
+  top: 0;
+  position:fixed;
+  width:100%;
   display: flex;
   justify-content: space-around;
   align-items: center;
   padding: 1rem;
   background-color: #333;
-  color: #fff;
-  
-  z-index: 1000; 
+  color: #fff; 
 }
 
 .photo img{
